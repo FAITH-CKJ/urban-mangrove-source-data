@@ -18,5 +18,5 @@ After extraction, start with `README.txt`, `CONTENTS.csv` and `metadata.json`. T
 
 The study reconstructs annual land cover during 2000–2025 within a fixed urban-associated coastal domain on a 30 m EPSG:6933 grid. Each mapped pixel represents 0.0009 km². The six covers are mangrove, tidal flat, other vegetation, water, built-up land and other non-water land. Unknown observations and outside-domain NoData retain their separate codes. Shared metadata define the class codes, units and denominators used by each data product.
 
-**Archive size:** 15,425,312 bytes.  
-**Archive SHA-256:** `3ba046eaf6afd1024a07f83febc85ba2412621b3c61fb8ac9e4651cad4979247`.
+**Archive size:** 15,425,332 bytes.  
+**Archive SHA-256:** `d8922b152e0997504f4c6c6214522ccd5a8692e90b9f6fba48c1cd6687223779`.
